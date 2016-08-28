@@ -83,6 +83,7 @@
 		</repository>
 	</distributionManagement>
 
+
 	<scm>
         <connection>scm:git@github.com:ialserda-matrik/teaching-academy.git</connection>
         <developerConnection>scm:git@github.com:ialserda-matrik/teaching-academy.git</developerConnection>
