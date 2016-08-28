@@ -87,7 +87,7 @@
 	<scm>
         <connection>scm:git:git@github.com:ialserda-matrik/teaching-academy.git</connection>
         <developerConnection>scm:git:git@github.com:ialserda-matrik/teaching-academy.git</developerConnection>
-        <url>scm:git:git@github.com:ialserda-matrik/teaching-academy.git</url>
+        <url>scm:git:ssh://git@github.com:ialserda-matrik/teaching-academy.git</url>
     </scm>
 
 	<build>
